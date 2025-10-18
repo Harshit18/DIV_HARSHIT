@@ -1,0 +1,10 @@
+{
+  "/not-found": "app/not-found.js",
+  "/page": "app/page.js",
+  "/products/page": "app/products/page.js",
+  "/about/page": "app/about/page.js",
+  "/signin/page": "app/signin/page.js",
+  "/cart/page": "app/cart/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/feedback/page": "app/feedback/page.js"
+}
